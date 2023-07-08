@@ -6,5 +6,4 @@ This project is a final project for IF440 Artificial Intelligence course. The pr
 ## Instalation LaTex (Optional)
 1. Install [LiveTex](https://www.latex-project.org/get/) or [MikTex](https://miktex.org/download).
 2. Install IEEEtran package. You can download it [here](https://ctan.org/tex-archive/macros/latex/contrib/IEEEtran?lang=en).
-3. Install `$ sudo apt-get install -y texlive-science`
-4. Install `$ sudo apt-get install texlive-latexextra`
+3. Compile and finish. Yes, off course it has compile with error. nvm.
